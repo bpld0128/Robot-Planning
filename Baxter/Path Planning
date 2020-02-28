@@ -1,0 +1,5 @@
+Simulate path planning on Baxter in a simulated environment.
+
+Task – pick a cylindrical object from a table and place it on the center of the other table while avoiding collision with the obstacles.
+
+V-Rep is used and the environment is known
